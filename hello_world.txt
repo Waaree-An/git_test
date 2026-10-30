@@ -1,1 +1,2 @@
-Hello........
+Hello, World!
+Welcome to my Git practice project.
